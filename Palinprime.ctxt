@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Palinprime
+comment1.params=
+comment1.target=Palinprime()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=n
+comment3.target=boolean\ checkprime(java.lang.String)
+comment4.params=n
+comment4.target=boolean\ palincheck(java.lang.String)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7
