@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Q5_Arr2D
+comment1.params=r\ c
+comment1.target=Q5_Arr2D(int,\ int)
+comment2.params=
+comment2.target=void\ left()
+comment3.params=
+comment3.target=void\ right()
+comment4.params=
+comment4.target=void\ arr()
+comment5.params=r\ c
+comment5.target=boolean\ isValid(int,\ int)
+comment6.params=n\ m
+comment6.target=void\ main(int,\ int)
+numComments=7

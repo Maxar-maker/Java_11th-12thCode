@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rec_Binary_Sc
+comment1.params=s\ l\ f
+comment1.target=int\ rec(int,\ int,\ int)
+comment2.params=f
+comment2.target=void\ main(int)
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RailFenceCipher
+comment1.params=
+comment1.target=void\ encrypt()
+comment2.params=
+comment2.target=void\ print_encrypt()
+comment3.params=
+comment3.target=int\ max()
+comment4.params=
+comment4.target=void\ decrypt()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

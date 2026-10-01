@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Q4_Num
+comment1.params=n1
+comment1.target=boolean\ prime(int)
+comment2.params=n1\ n2
+comment2.target=void\ main(int,\ int)
+numComments=3

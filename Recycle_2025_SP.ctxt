@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Recycle_2025_SP
+comment1.params=arr\ max
+comment1.target=Recycle_2025_SP(int[],\ int)
+comment2.params=v
+comment2.target=void\ pushfront(int)
+comment3.params=
+comment3.target=int\ poprear()
+comment4.params=arr\ max
+comment4.target=void\ main(int[],\ int)
+numComments=5
